@@ -1,0 +1,43 @@
+<div>
+<h1 mat-dialog-title>Add Service Item</h1>
+<div mat-dialog-content>
+    <form [formGroup]="workItemForm">
+        <mat-form-field appearance="outline">
+            <mat-label>Service Points</mat-label>
+            <input formControlName="points" matInput placeholder="Add service points here">
+        </mat-form-field>
+    
+        <mat-form-field appearance="outline">
+            <mat-label>Equipment Number</mat-label>
+            <input formControlName="equipmentNumber" matInput placeholder="Add equipment number here">
+        </mat-form-field>
+    
+        <mat-form-field appearance="outline">
+            <mat-label>Status</mat-label>
+            <mat-select formControlName="status" placeholder="Add status here">
+                <mat-option value="Pending">Pending</mat-option>
+                <mat-option value="InProgress">In Progress</mat-option>
+                <mat-option value="AwaitingParts">Awaiting Parts</mat-option>
+                <mat-option value="Complete">Complete</mat-option>
+            </mat-select>
+        </mat-form-field>
+    
+        <mat-form-field appearance="outline">
+            <mat-label>Technician</mat-label>
+            <input formControlName="technician" matInput placeholder="Add technician here">
+        </mat-form-field>
+    
+        <mat-form-field appearance="outline">
+            <mat-label>Notes</mat-label>
+            <textarea formControlName="notes"  matInput></textarea>
+        </mat-form-field>
+
+
+    </form>
+   
+</div>
+
+<div mat-dialog-actions [align]="'end'">
+    <button mat-raised-button color="warn" mat-dialog-close>Close</button>
+    <button style="margin-left:8px" mat-raised-button color="primary"(click)="addJob()">{{actionBtn}}</button>
+</div>
