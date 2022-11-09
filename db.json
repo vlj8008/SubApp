@@ -1,116 +1,36 @@
 {
   "workItemForm": [
     {
-      "points": "edit",
-      "equipmentNumber": "fg",
-      "status": "InProgress",
-      "technician": "sfdg",
-      "notes": "sfg",
-      "id": 5
-    },
-    {
-      "points": "sdf",
-      "equipmentNumber": "df",
-      "status": "Pending",
-      "technician": "adf",
-      "notes": "sadf",
-      "id": 6
-    },
-    {
-      "points": "fsg",
-      "equipmentNumber": "sfg",
-      "status": "InProgress",
-      "technician": "sfg",
-      "notes": "fgs",
-      "id": 7
-    },
-    {
-      "points": "dfsd",
-      "equipmentNumber": "adsf",
-      "status": "InProgress",
-      "technician": "adf",
-      "notes": "adf",
-      "id": 8
-    },
-    {
-      "points": "adsf",
-      "equipmentNumber": "adf",
-      "status": "InProgress",
-      "technician": "adf",
-      "notes": "afda",
-      "id": 9
-    },
-    {
-      "points": "test",
-      "equipmentNumber": "sdfad",
-      "status": "InProgress",
-      "technician": "adsf",
-      "notes": "asdf",
-      "id": 10
-    },
-    {
-      "points": "test",
-      "equipmentNumber": "adsf",
-      "status": "Pending",
-      "technician": "adf",
-      "notes": "adfa",
-      "id": 11
-    },
-    {
-      "points": "test",
-      "equipmentNumber": "dg",
-      "status": "InProgress",
-      "technician": "sfg",
-      "notes": "sfgs",
-      "id": 12
-    },
-    {
-      "points": "test 2",
-      "equipmentNumber": "sdf",
-      "status": "InProgress",
-      "technician": "adsf",
-      "notes": "adfa",
-      "id": 13
-    },
-    {
-      "points": "test3",
-      "equipmentNumber": "aldfj",
-      "status": "InProgress",
-      "technician": "sfg",
-      "notes": "sfg",
-      "id": 14
-    },
-    {
-      "points": "dddd",
-      "equipmentNumber": "dd",
-      "status": "Pending",
-      "technician": "dd",
-      "notes": "dd",
-      "id": 16
-    },
-    {
-      "points": "tttt",
-      "equipmentNumber": "tttt",
-      "status": "AwaitingParts",
-      "technician": "ttt",
-      "notes": "ttt",
+      "points": "test 3",
+      "equipmentNumber": "B003",
+      "status": "Complete",
+      "technician": "Jim Jackson",
+      "notes": "Customer happy",
       "id": 17
     },
     {
-      "points": "rrrrr",
-      "equipmentNumber": "rrrr",
-      "status": "InProgress",
-      "technician": "rrrr",
-      "notes": "rrrr",
+      "points": "test 4",
+      "equipmentNumber": "A001",
+      "status": "Pending",
+      "technician": "Jill Jones",
+      "notes": "Awaiting approval",
       "id": 18
     },
     {
-      "points": "gh",
-      "equipmentNumber": "fg",
-      "status": "InProgress",
-      "technician": "f",
-      "notes": "fhjgfh",
+      "points": "test 5",
+      "equipmentNumber": "A001",
+      "status": "AwaitingParts",
+      "technician": "Mary Jones",
+      "notes": "Parts expected 9 Nov 2022",
       "id": 19
+    },
+    {
+      "points": "test 6",
+      "equipmentNumber": "A008",
+      "status": "Complete",
+      "technician": "Mary Jones",
+      "notes": "Parts due 9Nov 2022",
+      "id": 20
     }
   ],
   "": [
