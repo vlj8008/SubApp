@@ -1,6 +1,6 @@
 # SubApp
 
-## To see a video of the working app click on this link: https://watch.screencastify.com/v/ZuksCqU9pUWTgcdRD6V7
+## To see a full video of the working app click on this link: https://watch.screencastify.com/v/ZuksCqU9pUWTgcdRD6V7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
