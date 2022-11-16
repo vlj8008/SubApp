@@ -1,7 +1,5 @@
 # SubApp
 
-
-## To see a full video of the working app click on this link: https://watch.screencastify.com/v/ZuksCqU9pUWTgcdRD6V7
 [SubApp (1).webm](https://user-images.githubusercontent.com/73119731/202028978-c2069289-506a-487b-bdcb-5ec50386d3b7.webm)
 
 
