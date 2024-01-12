@@ -1,6 +1,10 @@
 # SubApp
 
-[SubApp (1).webm](https://user-images.githubusercontent.com/73119731/202028978-c2069289-506a-487b-bdcb-5ec50386d3b7.webm)
+
+
+https://github.com/vlj8008/SubApp/assets/73119731/d8214306-7656-4b7f-861b-463ce7031ed7
+
+
 
 
 project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
